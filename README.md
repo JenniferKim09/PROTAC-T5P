@@ -6,6 +6,7 @@ The code provided here is for the  **A Data-Driven Hierarchical Framework for PR
   conda env create -f environment.yml -n protac-t5
   conda activate protac-t5
   ```
+Due to memory constraints, xtb-bleed.zip should be downloaded [here](https://zenodo.org/records/20321285), unzip and put under `./src/ecloud_utils`.
 
 ## 1a. Direct download of DATA and CKPT
 
